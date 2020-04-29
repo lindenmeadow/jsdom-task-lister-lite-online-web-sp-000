@@ -14,6 +14,5 @@ document.addEventListener("DOMContentLoaded", () => {
    event.preventDefault();
  }
 
-
-form.addEventListener("submit", addTasks, false);
+ form.addEventListener("submit", addTasks, false);
 });
